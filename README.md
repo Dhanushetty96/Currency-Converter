@@ -2,25 +2,18 @@
 A responsive and user-friendly currency converter web application built using HTML, CSS, and JavaScript. This project allows users to convert an amount from one currency to another using real-time exchange rates fetched from the free Latest Currency API.
 
 It also dynamically displays the country flags for selected currencies, making the interface more intuitive and engaging.
+>Live demo:
+  https://splendorous-axolotl-4639d9.netlify.app/
 
+> Features:
+ Real-time currency conversion
+ Dynamic dropdown menus for currency selection
+ Auto-updating country flags based on selected currencies
+ Input validation to handle empty or invalid amounts
+ Default settings: USD → INR conversion
+ Fast and lightweight — built with vanilla JavaScript
+ Mobile-responsive design
 
-🚀 Features
-🔁 Real-time currency conversion
-
-🌍 Dynamic dropdown menus for currency selection
-
-🏳️ Auto-updating country flags based on selected currencies
-
-💵 Input validation to handle empty or invalid amounts
-
-🧠 Default settings: USD → INR conversion
-
-⚡ Fast and lightweight — built with vanilla JavaScript
-
-📱 Mobile-responsive design
-
-📸 Screenshots
-(Insert screenshots here if available)
 
 🛠️ Tech Stack
 HTML5 — Semantic layout structure
@@ -34,9 +27,7 @@ Latest Currency API — Exchange rate data source
 Flags API — Country flag images
 
 📂 File Structure
-graphql
-Copy
-Edit
+
 Currency-Converter/
 │
 ├── index.html        # Main HTML structure
